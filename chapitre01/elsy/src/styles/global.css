@@ -1,0 +1,16 @@
+.box{
+    height: 190px;
+    padding: 8px;
+    text-align: center;
+}
+.box:nth-child(even){
+    background : #cccccc
+}
+.box:nth-child(odd){
+    background : #aaaaaa
+}
+/* 
+.carrousel_image{
+    background-size: cover !important;
+    height : 335px !important;
+} */
