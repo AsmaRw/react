@@ -7,7 +7,7 @@ function Signup() {
     const [password, setPassword] = useState("");
     return (
         <div>
-            
+            <h1>Signup</h1>
         </div>
     )
 }
